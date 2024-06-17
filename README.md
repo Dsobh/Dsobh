@@ -4,7 +4,7 @@ My name is David. I am a PhD student working at the Robotics Group of the Univer
 
 ## 🔭 I’m currently working on ...
 
-![explainable_ros](https://github.com/Dsobh/explainable_ros)
+- 🤖 ![explainable_ros](https://github.com/Dsobh/explainable_ros)
 
 ## 🌱 I’m currently learning ...
 
