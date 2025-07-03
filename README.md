@@ -8,7 +8,7 @@ My name is David. I am a PhD student working at the Robotics Group of the Univer
 
 ## 🌱 I’m currently learning ...
 
-- ![Godot](https://img.shields.io/badge/Godot-v3.2-%23478cbf?logo=godot-engine&logoColor=white)
+- ![Godot](https://img.shields.io/badge/Godot-v4.1-%23478cbf?logo=godot-engine&logoColor=white)
 - ![ROS2](https://img.shields.io/badge/ros%202-grey.svg?style=for-the-badge&logo=ros&logoColor=white)
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
