@@ -1,6 +1,6 @@
 ## Welcome to my Github! 🚀 
 
-My name is David. I am a PhD student working at the Robotics Group of the University of León 🏫.  My specializations are robotics and cybersecurity 🤖🔒. I'm also passionate about coding, especially backend and game development 🎮💻. Explore my projects and let's connect!
+My name is David. I am a PhD working at the Robotics Group of the University of León 🏫.  My specializations are robotics and cybersecurity 🤖🔒. I'm also passionate about coding, especially backend and game development 🎮💻. Explore my projects and let's connect!
 
 ## 🔭 I’m currently working on ...
 
